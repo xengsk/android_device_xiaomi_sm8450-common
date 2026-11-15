@@ -69,6 +69,8 @@ camera.disable_zsl_mode=true
 persist.vendor.vcb.enable=false
 ro.camera.enableCamera1MaxZsl=1
 ro.hardware.camera=xiaomi
+vendor.camera.aux.packageblacklist=in.org.npci.upiapp
+vendor.camera.aux.packageexcludelist=in.org.npci.upiapp
 
 # Chipset
 ro.soc.manufacturer=QTI
